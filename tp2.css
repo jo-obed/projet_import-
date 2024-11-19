@@ -1,0 +1,33 @@
+.corps_form {
+    background-color: rgb(15, 27, 63);
+    margin-right: 55%;
+    color: white;
+    padding-bottom: 30px;
+}
+
+.corps_form input {
+    padding-top: 10px;
+    margin-top: 20px;
+    border-radius: 5px;
+    border: 1px solid;
+    outline-color: rgb(255, 255, 0);
+}
+
+.corps_form .checkbox {
+    outline-color: rgb(255, 255, 0);
+}
+
+form .corps_form button {
+    margin-left: 30%;
+    outline: none;
+    border-radius: 5px;
+    padding: 8px 15px;
+    color: white;
+    font-size: 1em;
+    background-color: rgb(5, 5, 23);
+
+}
+
+body {
+    margin: 0px;
+}

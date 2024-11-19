@@ -1,0 +1,30 @@
+.contenu {
+    margin-top: 10px;
+
+}
+
+.contenu input {
+    margin-bottom: 10px;
+    margin-right: 30px;
+}
+
+.contenu .inp {
+    padding: 5px 5px;
+    margin-left: 20px;
+}
+
+.boutton {
+    border-radius: 5px;
+    border-color: red;
+}
+
+legend {
+    color: red;
+}
+
+.lang {
+    color: rebeccapurple;
+    display: flex;
+    flex-direction: row;
+
+}
